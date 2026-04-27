@@ -1,5 +1,5 @@
 // Fonte: https://refactoring.guru/design-patterns/factory-method/java/example
-// Adaptado por: Grupo [Nome] — Trabalho de Design Patterns GoF
+// Adaptado por: Grupo [Ana Beatriz] — Trabalho de Design Patterns GoF
 package product;
 /**
  * Interface Product — define o contrato dos objetos criados pelo Factory Method.
